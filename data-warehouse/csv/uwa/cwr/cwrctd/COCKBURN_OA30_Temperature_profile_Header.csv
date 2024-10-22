@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,The University of Western Australia
+Agency Code,UWA
+Program,Centre for Water Research (CWR)
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,UWA-CWR-SMCWS
+Data File Name,COCKBURN_OA30_Temperature_profile_Data.csv
+Location,data-warehouse/csv/uwa/cwr/cwrctd
+Station Status,Active
+Lat,-32.084768
+Long,115.69084
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,OA30
+Site Description,COCKBURN
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00007
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Temperature
+QC,NaN

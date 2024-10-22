@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,The University of Western Australia
+Agency Code,UWA
+Program,Centre for Water Research (CWR)
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,UWA-CWR-SMCWS
+Data File Name,NORTH_PERTH_Y19_Density_profile_Data.csv
+Location,data-warehouse/csv/uwa/cwr/cwrctd
+Station Status,Active
+Lat,-31.92043
+Long,115.620332
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,Y19
+Site Description,NORTH PERTH
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00218
+Data Category,Hydrodynamics
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Density
+QC,NaN

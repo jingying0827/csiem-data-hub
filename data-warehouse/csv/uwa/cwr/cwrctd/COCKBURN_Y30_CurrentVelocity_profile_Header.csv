@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,The University of Western Australia
+Agency Code,UWA
+Program,Centre for Water Research (CWR)
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,UWA-CWR-SMCWS
+Data File Name,COCKBURN_Y30_CurrentVelocity_profile_Data.csv
+Location,data-warehouse/csv/uwa/cwr/cwrctd
+Station Status,Active
+Lat,-32.035099
+Long,115.583341
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,Y30
+Site Description,COCKBURN
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00284
+Data Category,Hydrodynamics
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Current Velocity
+QC,NaN
