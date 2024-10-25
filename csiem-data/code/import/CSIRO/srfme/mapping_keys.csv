@@ -1,0 +1,7 @@
+Params.Name,Params.Units in dataset,Conv,Key,Key Value,Notes,Category
+Temperature (0C),C,1,var00007,Temperature,,Water Quality (PhysChm)
+Salinity (psu),psu,1,var00006,Salinity,,Water Quality (PhysChm)
+Pressure (m),m,1,var00008,Depth,,Water Quality (PhysChm)
+Longshore-Current (m/s),m/s,1,var00211,UCUR (eastward velocity),,Hydrodynamics
+Cross-Shore Current (m/s),m/s,1,var00214,VCUR (northward velocity),,Hydrodynamics
+Current Speed (m/s),m/s,1,var00284,Current Velocity,,Hydrodynamics
