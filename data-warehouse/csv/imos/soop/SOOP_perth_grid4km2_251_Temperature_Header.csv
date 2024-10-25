@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Integrated Marine Observing System
+Agency Code,IMOS
+Program,Ships of Opportunity (SOOP)
+Project,Perth waters gridded SOOP data
+Tag,IMOS-SOOP-PERTH
+Data File Name,SOOP_perth_grid4km2_251_Temperature_Data.csv
+Location,data-warehouse/csv/imos/soop
+Station Status,Active
+Lat,-31.8092
+Long,115.6623
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,grid4km2_251
+Site Description,grid4km2_251
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00007
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Temperature
+QC,Z (value passes all tests)
