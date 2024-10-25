@@ -3,7 +3,7 @@ import numpy as np
 import os
 import math
 
-dir_lst = ["../../../../../data-lake/UWA/cwrctd/CTD"]
+dir_lst = ["../../../../../data-lake/UWA/CWR/cwrctd"]
 
 mapping_keys_df = pd.read_csv("mapping_keys.csv")
 site_coordinates_lst = []
