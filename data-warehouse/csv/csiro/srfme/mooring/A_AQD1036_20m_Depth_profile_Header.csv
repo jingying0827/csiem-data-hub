@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Commonwealth Scientific and Industrial Research Organisation
+Agency Code,CSIRO
+Program,Strategic Research Fund for the Marine Environment (SRFME)
+Project,SRFME Two-Rock Moorings
+Tag,CSIRO-SRFME-Mooring
+Data File Name,A_AQD1036_20m_Depth_profile_Data.csv
+Location,data-warehouse/csv/csiro/srfme/mooring
+Station Status,Completed
+Lat,-31.5367
+Long,115.5583
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,Mooring_A
+Site Description,Mooring A
+Deployment,Fixed
+Deployment Position,20m from bottom
+Vertical Reference,Water Surface
+Site Mean Depth,20m
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00008
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),60 min
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Depth
+QC,NaN

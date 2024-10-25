@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Commonwealth Scientific and Industrial Research Organisation
+Agency Code,CSIRO
+Program,Strategic Research Fund for the Marine Environment (SRFME)
+Project,SRFME Two-Rock Moorings
+Tag,CSIRO-SRFME-Mooring
+Data File Name,C_AQD3713_100m_at_21m_VCUR(northwardvelocity)_profile_Data.csv
+Location,data-warehouse/csv/csiro/srfme/mooring
+Station Status,Completed
+Lat,-31.6817
+Long,115.2217
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,Mooring_C
+Site Description,Mooring C
+Deployment,Fixed
+Deployment Position,100m from surface (at 21m)
+Vertical Reference,Water Surface
+Site Mean Depth,100m
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00214
+Data Category,Hydrodynamics
+Sampling Rate (min),60 min
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,VCUR (northward velocity)
+QC,NaN
