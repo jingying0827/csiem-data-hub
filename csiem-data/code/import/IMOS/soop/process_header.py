@@ -20,7 +20,7 @@ DATE = "yyyy-mm-dd HH:MM:SS"
 DEPTH = "Decimal"
 QC = "Z (value passes all tests)"
 
-dir_lst = ["../../../../../data-warehouse/csv/imos/soop"]
+dir_lst = ["../../../../../data-warehouse/csv/imos/soop/perth"]
 
 mapping_keys_df = pd.read_csv("mapping_keys.csv")
 site_coordinates_df = pd.read_csv("../../../../data-mapping/By Agency/IMOS_SOOP.csv")

@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-dir_lst = ["../../../../../data-lake/IMOS/SOOP/ALL"]
+dir_lst = ["../../../../../data-lake/IMOS/SOOP/PERTH/ALL"]
 
 mapping_keys_df = pd.read_csv("mapping_keys.csv")
 
@@ -53,7 +53,7 @@ def process_data(dir):
                 print(output_filename)
 
                 # Write the filtered DataFrame to a CSV file in the specified directory only if it's not empty
-                output_dir = "../../../../../data-warehouse/csv/imos/soop"
+                output_dir = "../../../../../data-warehouse/csv/imos/soop/perth"
                 os.makedirs(output_dir, exist_ok=True)
                 
                 if not df_filtered.empty:
