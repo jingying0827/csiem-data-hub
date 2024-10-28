@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Spatial Ecosystem and Population Dynamics Model (SEAPODYM)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-SEAPODYM-PPZO
+Data File Name,CMEMS_npp_zooc_polygon_3_Zooplankton_profile_Data.csv
+Location,data-warehouse/csv/MOI/seapodym/model_pp_zo
+Station Status,Active
+Lat,-32.0335
+Long,115.3217
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-seapodym-model_pp_zo-Ocean_Boundary_Polygon_3
+Site Description,Ocean Boundary Polygon 3
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02737
+Data Category,Ecology (Planktonic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Zooplankton
+QC,NaN

@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,National Aeronautics and Space Administration
+Agency Code,NASA
+Program,Group for High Resolution Sea Surface Temperature (GHRSST)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,NASA-GHRSST
+Data File Name,GHRSST_point_25_Temperature_profile_Data.csv
+Location,data-warehouse/csv/NASA/ghrsst
+Station Status,Active
+Lat,-32.0684
+Long,115.701
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,NASA-ghrsst-Fremantle
+Site Description,Fremantle
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00007
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Temperature
+QC,NaN

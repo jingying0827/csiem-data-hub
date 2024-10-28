@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,European Space Agency
+Agency Code,ESA
+Program,Global Ocean Colour (GLOBCOLOR)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,ESA-GC-REF
+Data File Name,CMEMS_reflectance_point_1_RSreflectanceat412nm_profile_Data.csv
+Location,data-warehouse/csv/ESA/globcolor/reflectance
+Station Status,Active
+Lat,-31.769
+Long,115.649
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,ESA-globcolor-reflectance-Point_1
+Site Description,Point 1
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02728
+Data Category,Light
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,RS reflectance at 412nm
+QC,NaN

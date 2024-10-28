@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,National Aeronautics and Space Administration
+Agency Code,NASA
+Program,Moderate Resolution Imaging Spectroradiometer (MODIS)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,NASA-MODIS-PAR
+Data File Name,MODIS_point_7_PhotosyntheticallyAvailableRadiation_profile_Data.csv
+Location,data-warehouse/csv/NASA/modis/par
+Station Status,Active
+Lat,-32.193
+Long,115.351
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,NASA-modis-par-Point_7
+Site Description,Point 7
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00059
+Data Category,Light
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Photosynthetically Available Radiation
+QC,NaN

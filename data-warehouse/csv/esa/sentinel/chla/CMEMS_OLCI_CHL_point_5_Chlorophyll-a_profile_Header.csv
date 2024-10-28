@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,European Space Agency
+Agency Code,ESA
+Program,Ocean and Land Colour Instrument (OLCI)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,ESA-SEN-CHLA
+Data File Name,CMEMS_OLCI_CHL_point_5_Chlorophyll-a_profile_Data.csv
+Location,data-warehouse/csv/ESA/sentinel/chla
+Station Status,Active
+Lat,-32.027
+Long,115.367
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,ESA-sentinel-chla-Point_5
+Site Description,Point 5
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00014
+Data Category,Ecology (Planktonic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Chlorophyll-a
+QC,NaN

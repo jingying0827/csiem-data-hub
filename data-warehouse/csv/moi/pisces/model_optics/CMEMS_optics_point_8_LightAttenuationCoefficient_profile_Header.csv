@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Pelagic Interactions Scheme for Carbon and Ecosystem Studies (PISCES)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-PISCES-MODEL_OPT
+Data File Name,CMEMS_optics_point_8_LightAttenuationCoefficient_profile_Data.csv
+Location,data-warehouse/csv/MOI/pisces/model_optics
+Station Status,Active
+Lat,-32.188
+Long,115.521
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-pisces-model_optics-Point_8
+Site Description,Point 8
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00216
+Data Category,Light
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Light Attenuation Coefficient
+QC,NaN

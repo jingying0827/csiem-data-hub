@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,National Aeronautics and Space Administration
+Agency Code,NASA
+Program,Group for High Resolution Sea Surface Temperature (GHRSST)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,NASA-GHRSST
+Data File Name,GHRSST_polygon_4_Temperature_profile_Data.csv
+Location,data-warehouse/csv/NASA/ghrsst
+Station Status,Active
+Lat,-32.3547
+Long,115.3313
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,NASA-ghrsst-Ocean_Boundary_Polygon_4
+Site Description,Ocean Boundary Polygon 4
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00007
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Temperature
+QC,NaN

@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,European Space Agency
+Agency Code,ESA
+Program,Global Ocean Colour (GLOBCOLOR)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,ESA-GC-REF
+Data File Name,CMEMS_reflectance_polygon_5_RSreflectanceat555nm_profile_Data.csv
+Location,data-warehouse/csv/ESA/globcolor/reflectance
+Station Status,Active
+Lat,-32.5807
+Long,115.3899
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,ESA-globcolor-reflectance-Ocean_Boundary_Polygon_5
+Site Description,Ocean Boundary Polygon 5
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02731
+Data Category,Light
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,RS reflectance at 555nm
+QC,NaN

@@ -1,0 +1,42 @@
+Params.Name,Params.Units in dataset,Conv,Key,Key Value,Notes,Category
+so,psu,1,var00006,Salinity,,Water Quality (PhysChm)
+analysed_sst,C,1,var00007,Temperature,,Water Quality (PhysChm)
+CHL,mg/m3,1,var00014,Chlorophyll-a,,Ecology (Planktonic)
+chl,mg/m3,1,var00014,Chlorophyll-a,,Ecology (Planktonic)
+o2,mmol/m3,0.032,var00023,Dissolved Oxygen,convert to mg/L,Water Quality (PhysChm)
+si,mmol/m3,0.0281,var00024,Reactive Silica,convert to mg/L,Water Quality (Nutrient)
+no3,mmol/m3,0.014,var00026,Nitrate,convert to mg/L,Water Quality (Nutrient)
+po4,mmol/m3,0.031,var00027,Filterable Reactive Phosphate,convert to mg/L,Water Quality (Nutrient)
+poc,mg/m3,1,var00031,Particulate Organic Carbon,,Water Quality (Nutrient)
+par,Einstein/m2/d,2.5162,var00059,Photosynthetically Available Radiation,,Light
+ph,,1,var00137,pH,,Water Quality (PhysChm)
+talk,mol/m3,100.09,var00139,Total Alkalinity,convert to mg/L,Water Quality (Nutrient)
+ZSD,m,1,var00140,Secchi Depth,,Light
+kd,/m,1,var00216,Light Attenuation Coefficient,,Light
+DIATO,mg/m3,1,var00240,Diato,,Ecology (Planktonic)
+DINO,mg/m3,1,var00241,Dino,,Ecology (Planktonic)
+dissic,mol/m3,12,var00267,Dissolved Inorganic Carbon,convert to mg/L,Water Quality (Nutrient)
+fe,mmol/m3,0.055845,var02496,Dissolved Iron,convert to mg/L,Water Quality (Contaminants)
+BBP,/m,1,var02718,Backscattering Coefficient,,Light
+CDM,/m,1,var02719,Colored Dissolved Organic Matter,,Water Quality (Nutrient)
+GREEN,mg/m3,1,var02720,Green Algae,,Ecology (Planktonic)
+HAPTO,mg/m3,1,var02721,Haptophytes,,Ecology (Planktonic)
+MICRO,mg/m3,1,var02722,Microplankton,,Ecology (Planktonic)
+NANO,mg/m3,1,var02723,Nanoplankton,,Ecology (Planktonic)
+PICO,mg/m3,1,var02724,Picoplankton,,Ecology (Planktonic)
+PROCHLO,mg/m3,1,var02725,Prochlorococcus,,Ecology (Planktonic)
+PROKAR,mg/m3,1,var02726,Prokaryotes,,Ecology (Planktonic)
+PP,mg/m2/day,1,var02727,Primary Production,,Ecology (Benthic)
+RRS412,/sr,1,var02728,RS reflectance at 412nm,,Light
+RRS443,/sr,1,var02729,RS reflectance at 443nm,,Light
+RRS490,/sr,1,var02730,RS reflectance at 490nm,,Light
+RRS555,/sr,1,var02731,RS reflectance at 555nm,,Light
+RRS670,/sr,1,var02732,RS reflectance at 670nm,,Light
+nppv,mg/m3/day,1,var02733,Total Primary Production of Phyto,,Ecology (Planktonic)
+spco2,Pa,1,var02734,Surface Partial Pressure of CO2,,Greenhouse Gas
+phyc,mmol/m3,1,var02735,Phytoplankton,,Ecology (Planktonic)
+npp,mg/m2/day,1,var02736,Net Primary Productivity,,Ecology (Benthic)
+zooc,g/m2,1,var02737,Zooplankton,,Ecology (Planktonic)
+KD490,/m,1,var02738,Diffuse Attenuation Coefficient at 490nm,,Light
+SPM,g/m3,1,var02739,Suspended particulate matter,,Water Quality (Nutrient)
+pic,mg/m3,1,var02740,Particulate Inorganic Carbon,,Water Quality (Nutrient)

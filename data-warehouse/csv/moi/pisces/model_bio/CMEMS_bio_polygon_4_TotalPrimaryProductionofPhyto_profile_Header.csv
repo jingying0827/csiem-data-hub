@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Pelagic Interactions Scheme for Carbon and Ecosystem Studies (PISCES)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-PISCES-BIO
+Data File Name,CMEMS_bio_polygon_4_TotalPrimaryProductionofPhyto_profile_Data.csv
+Location,data-warehouse/csv/MOI/pisces/model_bio
+Station Status,Active
+Lat,-32.3547
+Long,115.3313
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-pisces-model_bio-Ocean_Boundary_Polygon_4
+Site Description,Ocean Boundary Polygon 4
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02733
+Data Category,Ecology (Planktonic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Total Primary Production of Phyto
+QC,NaN

@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,European Space Agency
+Agency Code,ESA
+Program,Global Ocean Colour (GLOBCOLOR)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,ESA-GC-TRA
+Data File Name,CMEMS_transp_point_13_Suspendedparticulatematter_profile_Data.csv
+Location,data-warehouse/csv/ESA/globcolor/transp
+Station Status,Active
+Lat,-32.52
+Long,115.601
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,ESA-globcolor-transp-Point_13
+Site Description,Point 13
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02739
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Suspended particulate matter
+QC,NaN

@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Pelagic Interactions Scheme for Carbon and Ecosystem Studies (PISCES)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-PISCES-NUT
+Data File Name,CMEMS_nut_polygon_1_ReactiveSilica_profile_Data.csv
+Location,data-warehouse/csv/MOI/pisces/model_nut
+Station Status,Active
+Lat,-31.7129
+Long,115.6559
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-pisces-model_nut-Ocean_Boundary_Polygon_1
+Site Description,Ocean Boundary Polygon 1
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00024
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Reactive Silica
+QC,NaN

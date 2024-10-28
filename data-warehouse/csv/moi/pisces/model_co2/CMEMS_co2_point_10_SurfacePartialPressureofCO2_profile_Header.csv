@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Pelagic Interactions Scheme for Carbon and Ecosystem Studies (PISCES)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-PISCES-CO2
+Data File Name,CMEMS_co2_point_10_SurfacePartialPressureofCO2_profile_Data.csv
+Location,data-warehouse/csv/MOI/pisces/model_co2
+Station Status,Active
+Lat,-32.355
+Long,115.441
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-pisces-model_co2-Point_10
+Site Description,Point 10
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02734
+Data Category,Greenhouse Gas
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Surface Partial Pressure of CO2
+QC,NaN

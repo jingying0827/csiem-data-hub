@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Nucleus for European Modelling of the Ocean (NEMO)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-NEMO-SAL
+Data File Name,CMEMS_Salt_point_13_Salinity_profile_Data.csv
+Location,data-warehouse/csv/MOI/nemo/model_salinity
+Station Status,Active
+Lat,-32.52
+Long,115.601
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-nemo-model_salinity-Point_13
+Site Description,Point 13
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00006
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Salinity
+QC,NaN

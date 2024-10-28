@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,National Aeronautics and Space Administration
+Agency Code,NASA
+Program,Moderate Resolution Imaging Spectroradiometer (MODIS)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,NASA-MODIS-PIC
+Data File Name,MODIS_point_4_ParticulateInorganicCarbon_profile_Data.csv
+Location,data-warehouse/csv/NASA/modis/pic
+Station Status,Active
+Lat,-31.896
+Long,115.685
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,NASA-modis-pic-Point_4
+Site Description,Point 4
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02740
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Particulate Inorganic Carbon
+QC,NaN

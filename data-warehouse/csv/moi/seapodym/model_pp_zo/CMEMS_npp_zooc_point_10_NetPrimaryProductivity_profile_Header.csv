@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Mercator Ocean International
+Agency Code,MOI
+Program,Spatial Ecosystem and Population Dynamics Model (SEAPODYM)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,MOI-SEAPODYM-PPZO
+Data File Name,CMEMS_npp_zooc_point_10_NetPrimaryProductivity_profile_Data.csv
+Location,data-warehouse/csv/MOI/seapodym/model_pp_zo
+Station Status,Active
+Lat,-32.355
+Long,115.441
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MOI-seapodym-model_pp_zo-Point_10
+Site Description,Point 10
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02736
+Data Category,Ecology (Benthic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Net Primary Productivity
+QC,NaN

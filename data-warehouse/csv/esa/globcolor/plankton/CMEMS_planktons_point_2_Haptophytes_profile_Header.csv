@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,European Space Agency
+Agency Code,ESA
+Program,Global Ocean Colour (GLOBCOLOR)
+Project,Cockburn Sound Model Virtual Sensor
+Tag,ESA-GC-PLK
+Data File Name,CMEMS_planktons_point_2_Haptophytes_profile_Data.csv
+Location,data-warehouse/csv/ESA/globcolor/plankton
+Station Status,Active
+Lat,-31.852
+Long,115.479
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,ESA-globcolor-plankton-Point_2
+Site Description,Point 2
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02721
+Data Category,Ecology (Planktonic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Haptophytes
+QC,NaN
