@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,The University of Western Australia
+Agency Code,UWA
+Program,Oceans Institute WA Waves
+Project,Wave buoy data
+Tag,UWA-OI-WAWAVES
+Data File Name,buoy67_WindDirection_Data.csv
+Location,data-warehouse/csv/uwa/oi/wawaves
+Station Status,Historic
+Lat,-31.8465995
+Lon,115.642707
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,uwa_hillarys_buoy67
+Site Description,Hillarys buoy
+Deployment,Floating
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00129
+Data Category,Meteorology
+Sampling Rate (min),60 min
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Wind Direction
+QC,NaN

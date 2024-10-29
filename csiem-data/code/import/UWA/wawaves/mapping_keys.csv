@@ -1,0 +1,25 @@
+Params.Name,Params.Units in dataset,Conv,Key,Key Value,Notes,Category
+Hsig (m),m,1,var00271,Significant Wave Height,,Hydrodynamics
+Hsig_swell (m),m,1,var02741,Significant Swell Wave Height,,Hydrodynamics
+Hsig_sea (m),m,1,var02742,Significant Sea  Wave Height,,Hydrodynamics
+Tp (s),s,1,var00277,Peak Wave Period,,Hydrodynamics
+Tm (s),s,1,var00276,Mean Wave Period,,Hydrodynamics
+Tm_swell (s),s,1,var02743,Mean Swell Wave Period,,Hydrodynamics
+Tm_sea (s),s,1,var02744,Mean Sea Wave Period,,Hydrodynamics
+Dp (deg),deg,1,var00281,Peak Wave Direction,,Hydrodynamics
+DpSpr (deg),deg,1,var02745,Peak Directional Wave Spread,,Hydrodynamics
+Dm (deg),deg,1,var00283,Mean Wave Direction,,Hydrodynamics
+Dm_swell (deg),deg,1,var02746,Mean Swell Wave Direction,,Hydrodynamics
+Dm_sea (deg),deg,1,var02747,Mean Sea Wave Direction,,Hydrodynamics
+DmSpr (deg),deg,1,var02748,Mean Directional Wave Spread,,Hydrodynamics
+DmSpr_swell (deg),deg,1,var02749,Mean Directional Swell Wave Spread,,Hydrodynamics
+DmSpr_sea (deg),deg,1,var02750,Mean Directional Sea Wave Spread,,Hydrodynamics
+QF_waves,,,,,unknown,
+SST (degC),deg C,1,var00007,Temperature,,Water Quality (PhysChm)
+QF_sst,,,,,unknown,
+Bottom Temp (degC),deg C,1,var02751,Sea Bottom Temperature,,Water Quality (PhysChm)
+QF_bott_temp,,,,,unknown,
+WindSpeed (m/s),m/s,1,var00130,Wind Speed,,Meteorology
+WindDirec (deg),deg,1,var00129,Wind Direction,,Meteorology
+CurrmentMag (m/s),m/s,1,var00284,Current Velocity,,Hydrodynamics
+CurrentDir (deg),deg,1,var00285,Current Direction,,Hydrodynamics
