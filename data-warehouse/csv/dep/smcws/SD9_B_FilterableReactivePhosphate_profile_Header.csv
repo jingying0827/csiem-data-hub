@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Department of Environmental Protection
+Agency Code,DEP
+Program,Cockburn Sound Monitoring Program
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,DEP-SMCWS-SD
+Data File Name,SD9_B_FilterableReactivePhosphate_profile_Data.csv
+Location,data-warehouse/csv/dep/smcws
+Station Status,Completed
+Lat,-32.3367
+Long,115.6383
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,SD9
+Site Description,Sepia Depression Site 9 (bottom)
+Deployment,Profile
+Deployment Position,m from bottom
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00027
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Filterable Reactive Phosphate
+QC,NaN

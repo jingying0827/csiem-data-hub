@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Department of Environmental Protection
+Agency Code,DEP
+Program,Cockburn Sound Monitoring Program
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,DEP-SMCWS-CS
+Data File Name,CS12_B_NitrateNitrogen_profile_Data.csv
+Location,data-warehouse/csv/dep/smcws
+Station Status,Completed
+Lat,-32.1917
+Long,115.7542
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,CS12
+Site Description,Cockburn Sound Site 1 (bottom)
+Deployment,Profile
+Deployment Position,m from bottom
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02649
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Nitrate Nitrogen
+QC,NaN
