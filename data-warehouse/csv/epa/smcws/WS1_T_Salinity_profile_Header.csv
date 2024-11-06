@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Department of Environmental Protection
+Agency Code,EPA
+Program,Cockburn Sound Monitoring Program
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,EPA-SMCWS-WS
+Data File Name,WS1_T_Salinity_profile_Data.csv
+Location,data-warehouse/csv/epa/smcws
+Station Status,Completed
+Lat,-32.3133
+Long,115.7033
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,WS1
+Site Description,Warnbro Sound Site 1 (surface)
+Deployment,Profile
+Deployment Position,m from bottom
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00006
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Salinity
+QC,NaN

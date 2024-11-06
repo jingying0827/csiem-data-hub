@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Department of Environmental Protection
+Agency Code,EPA
+Program,Cockburn Sound Monitoring Program
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,EPA-SMCWS-WS
+Data File Name,WS3_T_TotalDissolvedPhosphorus_profile_Data.csv
+Location,data-warehouse/csv/epa/smcws
+Station Status,Completed
+Lat,-32.335
+Long,115.7
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,WS3
+Site Description,Warnbro Sound Site 3 (surface)
+Deployment,Profile
+Deployment Position,m from bottom
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02773
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Total Dissolved Phosphorus
+QC,NaN

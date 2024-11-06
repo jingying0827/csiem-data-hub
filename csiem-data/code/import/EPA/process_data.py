@@ -63,7 +63,7 @@ def process_data(data_folder):
         print(sample)
         parts = sample.split(" ")
         sitecode = parts[0]
-        measurement_code = parts[1] if len(parts) > 1 else "B"
+        measurement_code = parts[1] if len(parts) > 1 else "T"
         print(sitecode, measurement_code)
         
         # Filter once for each sample
@@ -72,7 +72,7 @@ def process_data(data_folder):
 
         if "M" in measurement_code:
             DEPTH = site_info_df.loc[site_info_df['SiteCode'] == sitecode, 'Depth'].iloc[0]/2
-        elif "B" in measurement_code:
+        elif "T" in measurement_code:
             DEPTH = site_info_df.loc[site_info_df['SiteCode'] == sitecode, 'Depth'].iloc[0]
         else:
             DEPTH = 0
