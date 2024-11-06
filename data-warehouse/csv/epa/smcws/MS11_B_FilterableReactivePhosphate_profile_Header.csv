@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Department of Environmental Protection
+Agency Code,EPA
+Program,Cockburn Sound Monitoring Program
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,EPA-SMCWS-MS
+Data File Name,MS11_B_FilterableReactivePhosphate_profile_Data.csv
+Location,data-warehouse/csv/epa/smcws
+Station Status,Completed
+Lat,-32.2583
+Long,115.595
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,MS11
+Site Description,Mid-Shelf (up to about 10km offshore of Cape Peron and Warnbro Sound) Site 1 (bottom)
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00027
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Filterable Reactive Phosphate
+QC,NaN

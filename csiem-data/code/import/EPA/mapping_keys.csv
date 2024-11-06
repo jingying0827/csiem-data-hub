@@ -1,0 +1,24 @@
+﻿Params.Name,Params.Units in dataset,Conv,Key,Key Value,Category
+AMMONIA,ug/L,0.001,var00025,Ammonium,Water Quality (Nutrient)
+NITRATE-NITRITE,ug/L,0.001,var02649,Nitrate Nitrogen,Water Quality (Nutrient)
+PHOSPHATE,ug/L,0.001,var00027,Filterable Reactive Phosphate,Water Quality (Nutrient)
+CHLOROPHYLL a,ug/L,1,var00014,Chlorophyll-a,Water Quality (Nutrient)
+Temp,C,1,var00007,Temperature,Water Quality (PhysChm)
+Salinity,ppt,1,var00006,Salinity,Water Quality (PhysChm)
+AC,/m,1,var00216,Light Attenuation Coefficient,Light
+AC6m,/m,1,var02769,Light Attenuation Coefficient (6m),Light
+Secchi,m,1,var00140,Secchi Depth,Light
+TKN,ug/L,0.001,var00136,Total Kjeldahl Nitrogen,Water Quality (Nutrient)
+TN,ug/L,0.001,var00009,Total Nitrogen,Water Quality (Nutrient)
+TIN,ug/L,0.001,var02770,Total Inorganic Nitrogen,Water Quality (Nutrient)
+TDN,ug/L,0.001,var02771,Total Dissolved Nitrogen,Water Quality (Nutrient)
+TPN,ug/L,0.001,var02772,Total Particulate Nitrogen,Water Quality (Nutrient)
+NO3,ug/L,0.001,var02649,Nitrate Nitrogen,Water Quality (Nutrient)
+NH4,ug/L,0.001,var00025,Ammonium,Water Quality (Nutrient)
+TP,ug/L,0.001,var00010,Total Phosphorus,Water Quality (Nutrient)
+TIP,ug/L,0.001,var00027,Filterable Reactive Phosphate,Water Quality (Nutrient)
+TDP,ug/L,0.001,var02773,Total Dissolved Phosphorus,Water Quality (Nutrient)
+TPP,ug/L,0.001,var02774,Total Particulate Phosphorus,Water Quality (Nutrient)
+chl a,ug/L,1,var00014,Chlorophyll-a,Water Quality (Nutrient)
+Chlorophyll a,ug/L,1,var00014,Chlorophyll-a,Water Quality (Nutrient)
+Temperature,C,1,var00007,Temperature,Water Quality (PhysChm)

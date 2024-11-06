@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Department of Environmental Protection
+Agency Code,EPA
+Program,Cockburn Sound Monitoring Program
+Project,Southern Metropolitan Coastal Waters Study (SMCWS)
+Tag,EPA-SMCWS-CS
+Data File Name,CS9_B_TotalDissolvedPhosphorus_profile_Data.csv
+Location,data-warehouse/csv/epa/smcws
+Station Status,Completed
+Lat,-32.2022
+Long,115.7525
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,CS9
+Site Description,Cockburn Sound Site 9 (bottom)
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02773
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Total Dissolved Phosphorus
+QC,NaN
