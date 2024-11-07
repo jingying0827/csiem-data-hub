@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Western Australian Marine Science Institution
+Agency Code,WAMSI
+Program,Westport Marine Science Program (WWMSP5)
+Project,Regional Ocean Modelling Systems (ROMS)
+Tag,WAMSI-WWMSP5-WA-ROMS
+Data File Name,WA_ROMS_mooringC_2km_Salinity_profile_Data.csv
+Location,data-warehouse/csv/wamsi/wwmsp5/roms/wa_roms_2km_2000-2022
+Station Status,Active
+Lat,-31.67757427
+Long,115.2289075
+Time Zone,GMT +8
+Vertical Datum,mAHD
+National Station ID,mooring_C_2km
+Site Description,Mooring C (2km)
+Deployment,Profile
+Deployment Position,m from surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00006
+Data Category,Water Quality (PhysChm)
+Sampling Rate (min),/day
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Salinity
+QC,NaN

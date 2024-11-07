@@ -1,0 +1,15 @@
+﻿SiteCode,SiteName,Lat,Lon
+DWER_500m,Department of Water and Environmental Regulation (0.5km),-32.34224528,115.6839709
+mooring_A_500m,Mooring A (0.5km),-31.5361371,115.5579012
+mooring_B_500m,Mooring B (0.5km),-31.61674792,115.3639477
+mooring_C_500m,Mooring C (0.5km),-31.6839236,115.2524244
+DWER_2km,Department of Water and Environmental Regulation (2km),-32.3397987,115.6833264
+mooring_A_2km,Mooring A (2km),-31.53041328,115.5534924
+mooring_B_2km,Mooring B (2km),-31.6223889,115.3587415
+mooring_C_2km,Mooring C (2km),-31.67757427,115.2289075
+polygon_1,Ocean Boundary Polygon 1,-31.7129,115.6559
+polygon_2,Ocean Boundary Polygon 2,-31.7658,115.4682
+polygon_3,Ocean Boundary Polygon 3,-32.0335,115.3217
+polygon_4,Ocean Boundary Polygon 4,-32.3547,115.3313
+polygon_5,Ocean Boundary Polygon 5,-32.5807,115.3899
+polygon_6,Ocean Boundary Polygon 6,-32.6376,115.5499
