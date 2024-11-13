@@ -23,5 +23,5 @@
 > [!IMPORTANT]
 > Sensor depth for Mooring A and C (except Current) is calculated by subtracting the sensor depth from seabed from the raw pressure data. For Mooring B, the sensor depth is extracted directly from the sensor depth from water surface as no pressure data is available. For Current, the sensor depth is provided in the raw data files.
 > 
-> | ![Mooring A](Mooring_A.png) | ![Mooring B](Mooring_B.png) | ![Mooring C](Mooring_C.png) |
+> | ![Mooring A](MooringA.png) | ![Mooring B](MooringB.png) | ![Mooring C](MooringC.png) |
 > |:---:|:---:|:---:|
